@@ -1,4 +1,5 @@
 Gold Price Prediction:
+
 A self-project on time-series forecasting of gold prices using machine learning.
 
 Applied Random Forest, XGBoost, and regression models to improve prediction accuracy.
